@@ -48,8 +48,8 @@ public class ScoreVO {
 	}
 
 	public String toString() {
-		return "ScoreVO [strNum=" + strNum + ", intKor=" + intKor + ", intEng=" + intEng + ", intMth=" + intMth
-				+ ", intSum=" + intSum + ", floatAvg=" + floatAvg + "]";
+		return "ScoreVO [strNum : " + strNum + ", intKor : " + intKor + ", intEng : " + intEng + ", intMth : " + intMth
+				+ ", intSum : " + intSum + ", floatAvg : " + floatAvg + "]";
 	}
 	
 }

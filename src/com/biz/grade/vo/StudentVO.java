@@ -27,7 +27,7 @@ public class StudentVO {
 	}
 
 	public String toString() {
-		return "Num=" + strNum + ", Eng=" + strEngName + ", Kor=" + strKorName;
+		return "Num : " + strNum + ", Eng : " + strEngName + ", Kor : " + strKorName;
 	}
 
 	
